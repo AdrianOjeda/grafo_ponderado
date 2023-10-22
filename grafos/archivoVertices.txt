@@ -1,0 +1,2 @@
+Madrid|coordenadas 2|3.47386e+08
+Guadalajara|coordenadas|12323

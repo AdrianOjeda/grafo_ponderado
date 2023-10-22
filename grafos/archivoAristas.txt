@@ -1,0 +1,2 @@
+Madrid|Guadalajara|15
+Guadalajara|Madrid|12
